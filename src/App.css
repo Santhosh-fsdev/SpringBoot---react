@@ -1,0 +1,8 @@
+.App{
+  background-color:#444462;  
+  height: 98vh;
+  margin: none;
+}
+.App > div {
+  margin:5rem
+}
