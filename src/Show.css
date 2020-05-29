@@ -1,5 +1,3 @@
 .completed{
-    background: #cccccc;
-    opacity:0.3;
-    text-decoration: line-through;
+    background: green !important;
 }

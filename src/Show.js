@@ -19,7 +19,8 @@ const style = {
         outline: 'none',
         color:'444462',
         cursor: 'pointer',
-        paddingRight: '0.7rem'
+        paddingRight: '0.7rem',
+        fontSize:'2rem'
 
     }
 }
